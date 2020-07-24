@@ -63,7 +63,7 @@ def game_hash
     away: {
       team_name: "Charlotte Hornets",
       colors: ["Turquoise", "Purple"],
-      players: {
+      players: [
         {
           number: 4,
           shoe: 18,
@@ -114,7 +114,7 @@ def game_hash
           blocks: 5,
           slam_dunks: 12
         }
-      }
+      ]
     }
   }
 end
